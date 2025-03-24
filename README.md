@@ -1,5 +1,5 @@
 # Online-Retails-Analysis
-Create a dashboard that incorporates:
+Methods: Tableau software to create a dashboard that incorporates:
 - Principles of data storytelling include sales figure and other factors 
 - Professional design principles by using relevant filters and interactive elements ( metrics and parameters) to help audience easy interact with dashboard and find relevant information 
 • Grouping charts logically.
